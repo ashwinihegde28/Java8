@@ -12,6 +12,6 @@ public class StringBuilderExample {
         System.out.println("After reversed String builder is  "+ reversedString);
         System.out.println("Length of the string builder is " + sb.length());
         StringBuilder sb1 = new StringBuilder("Ashwini");
-        System.out.println("Character at index 0 is " + sb1.charAt(1));
+        System.out.println("Character at index 1 is " + sb1.charAt(1));
     }
 }
