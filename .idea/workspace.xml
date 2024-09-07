@@ -5,17 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="091b5f93-d41d-40ff-9a57-53e7432922bb" name="Changes" comment="Added files for inheritance examples with super keyword.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Misc/LuckySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/AppleIPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/CXO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/PixelMobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/RunMobiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Collections/stack/StackImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Operators/IncrementCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/String/MakeOutWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/String/MakeTags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstraction/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstraction/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstraction/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstraction/SUV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstraction/Sedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstraction/TrafficOnRoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstraction/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/abstraction/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/Banking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/MainForPasswordManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/MainForReadWriteAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/PasswordManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/ReadOnlyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/ReadWriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/WriteOnlyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/innerClass/InnerClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/ComputerFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/MainForPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Telephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problems/employeeManagementSystem/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problems/employeeManagementSystem/EmployeeManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problems/employeeManagementSystem/FullTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problems/employeeManagementSystem/PartTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/wrapperClasses/AutoBoxAndUnBoxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/wrapperClasses/ConstantsInWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/wrapperClasses/WrapperClassMethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/wrapperClasses/WrapperClassesCachingExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +53,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
