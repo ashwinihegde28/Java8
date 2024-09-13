@@ -15,8 +15,7 @@ public class ConstantsInWrapper {
         System.out.println(Boolean.TRUE);
         System.out.println(Boolean.FALSE);
 
-        double result = Math.sqrt(-10);
-        System.out.println("Result is NOT A Number" + Double.isNaN(result));
+        
 
 
     }

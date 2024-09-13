@@ -4,11 +4,15 @@ public class InnerClassDemo {
     public static void main(String[] args) {
         OuterClass outer = new OuterClass();
         outer.test();
+
+        OuterClass.Inner inner = outer.new Inner();
+        inner.display();
     }
 }
 
 class OuterClass {
     int outer_x = 10;
+
 
     void test() {
         Inner inner = new Inner();

@@ -31,8 +31,5 @@ public class WrapperClassMethodsDemo {
         System.out.println("Is 'nanValue' Not a Number (NaN) : "+ nanValue.isNaN());
 
 
-
-
-
     }
 }
