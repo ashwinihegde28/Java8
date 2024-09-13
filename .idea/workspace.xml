@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="091b5f93-d41d-40ff-9a57-53e7432922bb" name="Changes" comment="Added files for inheritance examples with super keyword.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHadling/ArthematicExceptionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHadling/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHadling/InsufficientBalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHadling/MainForBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHadling/ProductManagement/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHadling/ProductManagement/ProductManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHadling/ProductManagement/ProductNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHadling/Registration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/NullCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/enumeration/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/enumeration/EnumExecution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/CheckSuperKeyWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/innerClass/StaticInnerClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/innerClass/annonymousInnerClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problems/employeeManagementSystem/coffeShopDemo/CoffeHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/wrapperClasses/WrapperWithNullValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/innerClass/InnerClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/innerClass/InnerClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/wrapperClasses/AutoBoxAndUnBoxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/wrapperClasses/AutoBoxAndUnBoxing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/wrapperClasses/ConstantsInWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/wrapperClasses/ConstantsInWrapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/wrapperClasses/WrapperClassMethodsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/wrapperClasses/WrapperClassMethodsDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="091b5f93-d41d-40ff-9a57-53e7432922bb" name="Changes" comment="Added files for inheritance examples with super keyword." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
