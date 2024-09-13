@@ -1,3 +1,3 @@
 
-# Java 8 repository offers a collection of small basic programs organized by topic.
+# Java 8 repository offers a collection of small basic programs organized by topics.
 
